@@ -1,0 +1,8 @@
+Esercitazione 1 - Brani e CD (in C#)
+Gruppi da 3:
+
+Studente 1: classe Brano, con titolo, autore, durata, getter/setter, toString e shortSong.
+Studente 2: classe CD, con titolo, autore, lista di brani, durata complessiva e toString.
+Studente 3: main per creare gli oggetti e testare le funzionalita.
+Ogni studente aggiunge almeno altre due classi con relative funzionalita.
+Obiettivo: un commit per classe e un commit finale di integrazione.
